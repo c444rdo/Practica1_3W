@@ -1,6 +1,8 @@
 # Practica1_3W
 # Martínez Estrada Ricardo
 
+print ("Martínez Estrada Ricardo")
+print (" ")
 # Asignar valores a variables
 x = 9
 y = "José"
@@ -21,8 +23,5 @@ x = 'John'
 # "A" no será igual que "a". Las variables tienen que ser IDENTICAS.
 a = 4
 A = "Sally"
-print (" ")
 
-print ("Martínez Estrada Ricardo")
-
-![image](https://github.com/user-attachments/assets/642573ca-3c77-4004-a2ee-67a2bbe25a05)
+![image](https://github.com/user-attachments/assets/64fd76c5-6488-4500-907f-13b867889c5c)
